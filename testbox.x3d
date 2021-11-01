@@ -1,5 +1,5 @@
 <X3D showLog="true" profile="Immersive" version="3.2">
-		<Scene>
+    <Scene>
       <ProtoDeclare name='testbox'>
         <ProtoInterface>
         </ProtoInterface>
@@ -17,5 +17,5 @@
 
       <ProtoInstance DEF="box1" name="testbox">
       </ProtoInstance>
-		</Scene>
-	</X3D>
+    </Scene>
+</X3D>
