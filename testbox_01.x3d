@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<X3D>
+  <Scene>  
+    <ExternProtoDeclare name="testbox" url="testboxProto.x3d">
+    </ExternProtoDeclare>
+    <ProtoInstance name="testbox" DEF="testbox01">
+    </ProtoInstance>
+  </Scene>
+</X3D>
