@@ -29,8 +29,8 @@
               </Shape>
             </Transform>
           </Transform>
+        <ROUTE fromNode="box1" fromField="translation" toNode="box2" toField="translation"></ROUTE>
       </ProtoBody>
     </ProtoDeclare>
-    <ROUTE fromNode="box1" fromField="translation" toNode="box2" toField="translation"></ROUTE>
   </Scene>
 </X3D>
