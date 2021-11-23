@@ -30,10 +30,7 @@
               </Shape>
             </Transform>
           </Transform>
-	
-		
           <ROUTE fromNode="box1" fromField="translation" toNode="box2" toField="translation"></ROUTE>
-
         </Group>
 	<Group>
 	          	
