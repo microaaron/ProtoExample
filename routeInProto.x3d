@@ -8,7 +8,7 @@
         <field name='translation' type='SFVec3f' accessType='inputOutput'/> 
       </ProtoInterface>
       <ProtoBody> 
-        <Group>
+
           <Transform DEF="box1">
             <IS>
               <connect nodeField="translation" protoField="translation"></connect>
@@ -30,7 +30,7 @@
               </Shape>
             </Transform>
           </Transform>
-        </Group>
+
       </ProtoBody>
     </ProtoDeclare>
     <ROUTE fromNode="box1" fromField="translation" toNode="box2" toField="translation"/>
